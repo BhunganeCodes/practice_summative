@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    margin: 2em;
+}
+
+#languages li {
+    cursor: pointer;
+}
+
+#languages li:hover {
+    text-decoration: underline;
+}
+
+#selection {
+    font-weight: bold;
+}
